@@ -1,9 +1,10 @@
 body {
   background #CCCCCC
 }
-H1{
+h1{
+  style="text-align:center"
 
-P{
+p{
   Text-align: center;
 }
 
