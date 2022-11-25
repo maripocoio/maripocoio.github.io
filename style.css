@@ -1,5 +1,5 @@
 body {
-  background #CCCCCC
+  background: #CCCCCC
 }
 
 #banner{
@@ -17,3 +17,12 @@ p{
 em strong {
   color: FF0000;
 }
+  .itens{
+    font-style:italic
+  }
+  
+  .beneficios {
+22
+
+    background:#FFFFFF
+  }
